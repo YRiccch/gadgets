@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
-  "notes": "全新版本！",
-  "url": "https://yriccch.github.io/gadgets/TodoFlow_0.3.0_x64-setup.exe"
+  "version": "0.4.0",
+  "notes": "0.4.0 更新：拖拽重排焕新——拎起事件组会浓缩成精致的标题胶囊，落点处高亮提示即将插入的位置，松手后平滑展开；同时修复了打字时页面乱往下滑、看不到光标的问题。",
+  "url": "https://gitee.com/Yriccch/gadgets/releases/download/v0.4.0/TodoFlow_0.4.0_x64-setup.exe"
 }
