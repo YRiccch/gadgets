@@ -12,6 +12,7 @@
 
 ## Web apps
 
+- [Spatial Deck Studio](https://yriccch.github.io/gadgets/spatial-deck-studio/)：在空间画布中编排页面，并导出带相机运动的独立 HTML 演示文稿。
 - [Travel Map Studio](https://yriccch.github.io/gadgets/travel-map-studio/)：在一张地图里整理旅行地点、路线和备注。
 
 ## Layout
@@ -20,7 +21,8 @@
 gadgets/
 ├─ TodoFlow_*.exe
 ├─ todoflow-latest.json
-└─ travel-map-studio/       # built static files only
+├─ spatial-deck-studio/    # built static files only
+└─ travel-map-studio/      # built static files only
 ```
 
 GitHub Pages should publish the `main` branch from the repository root. New web apps should each use their own top-level folder, so they do not conflict with one another.
